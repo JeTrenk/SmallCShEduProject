@@ -1,0 +1,11 @@
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\bin\Debug\netcoreapp2.1\OverridngMethods.deps.json
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\bin\Debug\netcoreapp2.1\OverridngMethods.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\bin\Debug\netcoreapp2.1\OverridngMethods.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\bin\Debug\netcoreapp2.1\OverridngMethods.dll
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\bin\Debug\netcoreapp2.1\OverridngMethods.pdb
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\obj\Debug\netcoreapp2.1\OverridngMethods.csprojAssemblyReference.cache
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\obj\Debug\netcoreapp2.1\OverridngMethods.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\obj\Debug\netcoreapp2.1\OverridngMethods.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\obj\Debug\netcoreapp2.1\OverridngMethods.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\obj\Debug\netcoreapp2.1\OverridngMethods.dll
+H:\My Documents\Jelena\TestProject_Console\OverridngMethods\obj\Debug\netcoreapp2.1\OverridngMethods.pdb

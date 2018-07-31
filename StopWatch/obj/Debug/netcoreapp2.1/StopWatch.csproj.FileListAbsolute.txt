@@ -1,0 +1,11 @@
+H:\My Documents\Jelena\TestProject_Console\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.deps.json
+H:\My Documents\Jelena\TestProject_Console\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.dll
+H:\My Documents\Jelena\TestProject_Console\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.pdb
+H:\My Documents\Jelena\TestProject_Console\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.dll
+H:\My Documents\Jelena\TestProject_Console\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.pdb
+H:\My Documents\Jelena\TestProject_Console\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.csprojAssemblyReference.cache

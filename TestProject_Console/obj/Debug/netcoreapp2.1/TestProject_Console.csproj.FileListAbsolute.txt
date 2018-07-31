@@ -1,0 +1,22 @@
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.deps.json
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.runtimeconfig.json
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.runtimeconfig.dev.json
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.dll
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.pdb
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.csprojAssemblyReference.cache
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.csproj.CoreCompileInputs.cache
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.AssemblyInfoInputs.cache
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.AssemblyInfo.cs
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.dll
+c:\users\jmiljkov\source\repos\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.pdb
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.deps.json
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.dll
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\bin\Debug\netcoreapp2.1\TestProject_Console.pdb
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.csprojAssemblyReference.cache
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.dll
+H:\My Documents\Jelena\TestProject_Console\TestProject_Console\obj\Debug\netcoreapp2.1\TestProject_Console.pdb

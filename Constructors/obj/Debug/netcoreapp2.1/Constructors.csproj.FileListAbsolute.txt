@@ -1,0 +1,10 @@
+H:\My Documents\Jelena\TestProject_Console\Constructors\bin\Debug\netcoreapp2.1\Constructors.deps.json
+H:\My Documents\Jelena\TestProject_Console\Constructors\bin\Debug\netcoreapp2.1\Constructors.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\Constructors\bin\Debug\netcoreapp2.1\Constructors.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\Constructors\bin\Debug\netcoreapp2.1\Constructors.dll
+H:\My Documents\Jelena\TestProject_Console\Constructors\bin\Debug\netcoreapp2.1\Constructors.pdb
+H:\My Documents\Jelena\TestProject_Console\Constructors\obj\Debug\netcoreapp2.1\Constructors.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Constructors\obj\Debug\netcoreapp2.1\Constructors.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Constructors\obj\Debug\netcoreapp2.1\Constructors.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\Constructors\obj\Debug\netcoreapp2.1\Constructors.dll
+H:\My Documents\Jelena\TestProject_Console\Constructors\obj\Debug\netcoreapp2.1\Constructors.pdb

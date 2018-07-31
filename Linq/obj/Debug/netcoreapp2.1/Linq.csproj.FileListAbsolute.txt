@@ -1,0 +1,10 @@
+H:\My Documents\Jelena\TestProject_Console\Linq\bin\Debug\netcoreapp2.1\Linq.deps.json
+H:\My Documents\Jelena\TestProject_Console\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\Linq\bin\Debug\netcoreapp2.1\Linq.dll
+H:\My Documents\Jelena\TestProject_Console\Linq\bin\Debug\netcoreapp2.1\Linq.pdb
+H:\My Documents\Jelena\TestProject_Console\Linq\obj\Debug\netcoreapp2.1\Linq.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\Linq\obj\Debug\netcoreapp2.1\Linq.dll
+H:\My Documents\Jelena\TestProject_Console\Linq\obj\Debug\netcoreapp2.1\Linq.pdb

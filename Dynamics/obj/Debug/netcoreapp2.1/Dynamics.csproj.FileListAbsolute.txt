@@ -1,0 +1,10 @@
+H:\My Documents\Jelena\TestProject_Console\Dynamics\bin\Debug\netcoreapp2.1\Dynamics.deps.json
+H:\My Documents\Jelena\TestProject_Console\Dynamics\bin\Debug\netcoreapp2.1\Dynamics.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\Dynamics\bin\Debug\netcoreapp2.1\Dynamics.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\Dynamics\bin\Debug\netcoreapp2.1\Dynamics.dll
+H:\My Documents\Jelena\TestProject_Console\Dynamics\bin\Debug\netcoreapp2.1\Dynamics.pdb
+H:\My Documents\Jelena\TestProject_Console\Dynamics\obj\Debug\netcoreapp2.1\Dynamics.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Dynamics\obj\Debug\netcoreapp2.1\Dynamics.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Dynamics\obj\Debug\netcoreapp2.1\Dynamics.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\Dynamics\obj\Debug\netcoreapp2.1\Dynamics.dll
+H:\My Documents\Jelena\TestProject_Console\Dynamics\obj\Debug\netcoreapp2.1\Dynamics.pdb

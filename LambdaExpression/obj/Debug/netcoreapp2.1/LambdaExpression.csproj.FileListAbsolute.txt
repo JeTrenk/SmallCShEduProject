@@ -1,0 +1,10 @@
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.deps.json
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.dll
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.pdb
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.dll
+H:\My Documents\Jelena\TestProject_Console\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.pdb

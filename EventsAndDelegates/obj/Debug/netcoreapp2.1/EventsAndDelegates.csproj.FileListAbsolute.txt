@@ -1,0 +1,11 @@
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.deps.json
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.dll
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.pdb
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.dll
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.pdb
+H:\My Documents\Jelena\TestProject_Console\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.csprojAssemblyReference.cache

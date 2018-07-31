@@ -1,0 +1,11 @@
+H:\My Documents\Jelena\TestProject_Console\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CoreCompileInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfoInputs.cache
+H:\My Documents\Jelena\TestProject_Console\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfo.cs
+H:\My Documents\Jelena\TestProject_Console\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.deps.json
+H:\My Documents\Jelena\TestProject_Console\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.runtimeconfig.json
+H:\My Documents\Jelena\TestProject_Console\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.runtimeconfig.dev.json
+H:\My Documents\Jelena\TestProject_Console\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.dll
+H:\My Documents\Jelena\TestProject_Console\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.pdb
+H:\My Documents\Jelena\TestProject_Console\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.dll
+H:\My Documents\Jelena\TestProject_Console\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.pdb
+H:\My Documents\Jelena\TestProject_Console\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csprojAssemblyReference.cache
